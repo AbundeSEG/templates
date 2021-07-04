@@ -2,7 +2,7 @@
 
 **This template describes the way in which you should report errors relative to bugs and inconsistencies on the mobile platform**
 
-**_author:@t-k-c_**
+**_author:@tkclarence_**
 
 
 ### 1. Specify the tester
