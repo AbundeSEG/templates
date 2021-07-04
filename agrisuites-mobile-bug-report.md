@@ -1,8 +1,8 @@
 # Bug reporting template for Agrisuites Mobile App
 
 **This template describes the way in which you should report errors relative to bugs and inconsistencies on the mobile platform**
-
-#### 1. Specify the tester
+_author:@t-k-c_
+### 1. Specify the tester
 
 Who is testing? (Real name, Name and email on the platform)
 
